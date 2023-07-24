@@ -1,0 +1,19 @@
+	 Welcome to our Shop
+ Bill Number:9219
+ Customer Name:
+ Phone Number:0
+ Customer Email:
+ -----------------------------------------------------------------------         
+ Products		QTY	Price
+  -----------------------------------------------------------------------         Santoor			1	40
+Santoor			1	40
+Santoor			1	40
+Santoor			1	40
+Santoor			1	40
+Santoor			1	40
+Santoor			1	40
+
+--------------------------------------------------------------------
+ Product Tax:			Rs.0.12
+ Total product price:		Rs.280.12
+--------------------------------------------------------------------
